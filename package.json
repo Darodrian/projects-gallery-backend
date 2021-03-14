@@ -1,5 +1,5 @@
 {
-  "name": "store-app-backend",
+  "name": "projects-gallery-backend",
   "version": "1.0.0",
   "description": "First store-app backend server",
   "main": "index.js",
